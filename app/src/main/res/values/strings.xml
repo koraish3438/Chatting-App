@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chatting App</string>
+    <string name="massage">Massage</string>
+    <string name="search">Search...</string>
+    <string name="chat">Chat</string>
+    <string name="name">Name</string>
+    <string name="subtitle">Subtitle</string>
+</resources>
